@@ -15,7 +15,7 @@ This program helps users identify possible diseases in apple trees based on obse
 | Code | Disease | Causative Agent | Affected Part |
 |------|---------|-----------------|---------------|
 | `LD` | Leaf Blight (*Marssonina coronaria* J.J. Davis) | Fungus | Leaves |
-| `CC` | Canker (*Botryosphaeria ribis* Gross.) | Fungus | Stem and fruit |
+| `CC` | Cancer (*Botryosphaeria ribis* Gross.) | Fungus | Stem and fruit |
 | `U` | Undetected | — | — |
 
 ---
